@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @alterisian
 - 👀 I’m interested in professional oppurtunities in technology, from financed startups. 
 - 🌱 I’m currently learning where my skills are needed.
-- 💞️ I’m looking to collaborate as a mob
+- 💞️ I’m looking to collaborate as part of a mob
 - 📫 How to reach me https://linkedin.com/in/alteris
 
 <!---
